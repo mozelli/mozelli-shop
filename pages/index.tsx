@@ -1,7 +1,9 @@
+import Product from './Product'
+
 export default function Home() {
   return (
     <>
-      Hello World!
+      <Product></Product>
     </>
   )
 }
