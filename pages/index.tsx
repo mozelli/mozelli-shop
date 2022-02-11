@@ -1,9 +1,10 @@
-import Product from './Product'
+import Header from '../src/components/Header'
 
 export default function Home() {
   return (
     <>
-      <Product></Product>
+      <Header />
+      <h1>Home</h1>
     </>
   )
 }
