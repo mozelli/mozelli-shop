@@ -1,0 +1,13 @@
+.container {
+
+}
+
+.image {
+    display: none;
+}
+
+@media (max-width: 720px) {
+    .image {
+        display: block;
+    }
+  }
